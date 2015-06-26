@@ -52,3 +52,4 @@ group :production, :staging do
 end
 
 gem 'kaminari'
+gem 'devise'

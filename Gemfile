@@ -50,3 +50,5 @@ gem 'sprockets', '2.11.0'
 group :production, :staging do
   gem 'rails_12factor'
 end
+
+gem 'kaminari'
